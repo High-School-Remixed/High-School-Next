@@ -1,6 +1,5 @@
 
-<img src="assets/c932fbb6-7bab-40fe-bb71-411c65a0924c.png" width="300" height="150">
-<img src="assets/ChatGPT%20Image%20Jul%203,%202025%20at%2005_09_20%20AM.png" width="300" height="150">
+<img src="assets/c932fbb6-7bab-40fe-bb71-411c65a0924c.png" width="300" height="150"> <img src="assets/ChatGPT%20Image%20Jul%203,%202025%20at%2005_09_20%20AM.png" width="300" height="150">
 
 # High-School-Next
 A suite of courses and tools for transforming high school.
