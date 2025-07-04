@@ -11,3 +11,8 @@ We do this via the system of Industry Recognized Credentials, plus Ohio's Credit
 * [Industry Recognized Credentials (Ohio)](https://education.ohio.gov/Topics/Ohio-s-Graduation-Requirements/Contacts-and-Resources/Industry-Recognized-Credentials/Industry-Recognized-Credentials-by-Career-Field)
 * [Advancing Ohio's Credit Flexibility Plan](https://prezi.com/v70tyr1h7t19/advancing-ohios-credit-flexibility-plan/)
 ![Screenshot 2025-07-04 at 9.53.51 AM](assets/Screenshot%202025-07-04%20at%209.53.51%E2%80%AFAM.png)
+
+##The Plan
+![Screenshot 2025-07-04 at 10.14.57 AM](assets/Screenshot%202025-07-04%20at%2010.14.57%E2%80%AFAM.png)
+[Redesign High School IRC Development Program.pdf](Redesign%20High%20School%20Development%20Program.pdf)
+Redesign High School Development Program
