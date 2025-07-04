@@ -15,4 +15,4 @@ We do this via the system of Industry Recognized Credentials, plus Ohio's Credit
 ##The Plan
 ![Screenshot 2025-07-04 at 10.14.57 AM](assets/Screenshot%202025-07-04%20at%2010.14.57%E2%80%AFAM.png)
 [Redesign High School IRC Development Program.pdf](Redesign%20High%20School%20Development%20Program.pdf)
-Redesign High School Development Program
+[Apple Freeform Board](https://www.icloud.com/freeform/05aBiACowpo89VHp9EgExnb9A#Redesign_High_School_IRC_Development_Program)
