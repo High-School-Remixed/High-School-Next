@@ -16,3 +16,8 @@ We do this via the system of Industry Recognized Credentials, plus Ohio's Credit
 ![Screenshot 2025-07-04 at 10.14.57 AM](assets/Screenshot%202025-07-04%20at%2010.14.57%E2%80%AFAM.png)
 [Apple Freeform Board](https://www.icloud.com/freeform/05aBiACowpo89VHp9EgExnb9A#Redesign_High_School_IRC_Development_Program)
 [Redesign High School IRC Development Program.pdf](https://github.com/High-School-Remixed/High-School-Next/blob/main/Redesign%20High%20School%20IRC%20Development%20Program.pdf)
+
+## Web Application (Vue)
+
+A basic Vue 3 application has been initialized in the `webapp` directory.
+Use `npm install` followed by `npm run dev` to start the development server.
